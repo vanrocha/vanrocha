@@ -62,6 +62,8 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/beb0347f-6f6d-4f86-8fa3-03dd6d022ccc">
 
+<img align="left"  height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/e644b279-8487-45a1-9050-e6900c5d78e6">
+
 </div>
 
 <br>
@@ -72,20 +74,6 @@
 <br> 
 
 
-<h2 align="left"> Studying in this moment: </h2>
-
-
-<div align="left"> 
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc">
-
-<img align="left"  height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/947c26cd-cf41-4c09-93f1-4f55362f85c7">
-
-<img align="left"  height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/beb0347f-6f6d-4f86-8fa3-03dd6d022ccc">
-
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&fontAlignY=58&fontAlign=32&animation=blinking&fontColor=08691CFF&fontSize=2"/>
 
