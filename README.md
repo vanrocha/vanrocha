@@ -52,8 +52,6 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/3b1a561c-3802-441e-9a39-23f48de0b383">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
-
 <img align="left"  height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/40f8f5ed-fa32-404b-bf41-c8401c4641e3">
 
 <img align="left"  height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/a600b581-07ed-44ac-899c-513c5e2584b9">
@@ -80,8 +78,6 @@
 <div align="left"> 
 
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
 
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc">
 
