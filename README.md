@@ -44,13 +44,13 @@
 
 ### Main skills:
 <div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/vanrocha/vanrocha/assets/86091793/16f1ddd1-8d2d-43c0-9092-3bda5a3037c2">
+<img align="left" height="84" width="84" src="https://github.com/vanrocha/vanrocha/assets/86091793/49372f0d-6543-4dae-b4c2-25fc19b5fed6">
 
 <img align="left" height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/7b57f313-6320-4983-81cb-003f24d6946a">
 
 <img align="left"  height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/6b7be547-c438-4783-abae-d78ef5487afc">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
+<img align="left"  height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/3b1a561c-3802-441e-9a39-23f48de0b383">
 
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
 
