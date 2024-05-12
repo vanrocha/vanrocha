@@ -62,7 +62,7 @@
 
 <img align="left"  height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/beb0347f-6f6d-4f86-8fa3-03dd6d022ccc">
 
-<img align="left"  height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/56b7afe9-0b10-48da-ad63-faf1b450b87b">
+<img align="left"  height="70" width="70" src="https://github.com/vanrocha/vanrocha/assets/86091793/1e1ee0b7-6163-48b5-9d7d-d27039efd4ad">
 
 </div>
 
