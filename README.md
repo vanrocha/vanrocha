@@ -73,6 +73,14 @@
 <br>
 <br> 
 
+</div>
+
+<div align="center" >
+   
+ [![Github Trophies](https://github-profile-trophy.vercel.app/?username=vanrocha&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/MrKrishnaAgarwal/readme-components-github)
+
+</div>
+ 
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&fontAlignY=58&fontAlign=32&animation=blinking&fontColor=#05410DFF&fontSize=2"/>
