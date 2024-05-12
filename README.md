@@ -16,7 +16,7 @@
 
 <div align="center"> 
 <a href="https://www.instagram.com/r.rochhax/" target="_blank">
-<img align="center" height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/8e3126a7-d003-4fbc-979f-4a2708f8b82a">
+<img align="center" height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/100d1508-2be9-40d9-b054-559bc6087fff">
 </a>
 
 <a href="https://www.youtube.com/channel/UCAvfg7HE0wEjFNejFpjaZVw" target="_blank">
