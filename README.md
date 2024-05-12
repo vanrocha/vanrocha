@@ -44,25 +44,25 @@
 
 ### Main skills:
 <div align="left"> 
-<img align="left" height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/49372f0d-6543-4dae-b4c2-25fc19b5fed6">
+<img align="left" height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/49372f0d-6543-4dae-b4c2-25fc19b5fed6">
 
-<img align="left" height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/7b57f313-6320-4983-81cb-003f24d6946a">
+<img align="left" height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/7b57f313-6320-4983-81cb-003f24d6946a">
 
-<img align="left"  height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/6b7be547-c438-4783-abae-d78ef5487afc">
+<img align="left"  height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/6b7be547-c438-4783-abae-d78ef5487afc">
 
-<img align="left"  height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/3b1a561c-3802-441e-9a39-23f48de0b383">
+<img align="left"  height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/3b1a561c-3802-441e-9a39-23f48de0b383">
 
-<img align="left"  height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/40f8f5ed-fa32-404b-bf41-c8401c4641e3">
+<img align="left"  height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/40f8f5ed-fa32-404b-bf41-c8401c4641e3">
 
-<img align="left"  height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/a600b581-07ed-44ac-899c-513c5e2584b9">
+<img align="left"  height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/a600b581-07ed-44ac-899c-513c5e2584b9">
 
-<img align="left"  height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/d82c0b64-a40b-4d1f-ba5f-85d67137429a">
+<img align="left"  height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/d82c0b64-a40b-4d1f-ba5f-85d67137429a">
 
-<img align="left"  height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/17ba8a6f-c8a7-47a9-bc78-08ee87c19457">
+<img align="left"  height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/17ba8a6f-c8a7-47a9-bc78-08ee87c19457">
 
-<img align="left"  height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/beb0347f-6f6d-4f86-8fa3-03dd6d022ccc">
+<img align="left"  height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/beb0347f-6f6d-4f86-8fa3-03dd6d022ccc">
 
-<img align="left"  height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/e644b279-8487-45a1-9050-e6900c5d78e6">
+<img align="left"  height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/e644b279-8487-45a1-9050-e6900c5d78e6">
 
 </div>
 
