@@ -87,7 +87,7 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/947c26cd-cf41-4c09-93f1-4f55362f85c7">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
+<img align="left"  height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/a93d02fd-72bc-42bd-aebf-3741daf1ef1c">
 
 </div>
 
