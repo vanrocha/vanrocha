@@ -86,3 +86,6 @@
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
 
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&fontAlignY=58&fontAlign=32&animation=blinking&fontColor=08691CFF&fontSize=2"/>
+
