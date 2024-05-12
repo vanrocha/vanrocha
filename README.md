@@ -54,7 +54,7 @@
 
 <img align="left"  height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/40f8f5ed-fa32-404b-bf41-c8401c4641e3">
 
-<img align="left"  height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/a600b581-07ed-44ac-899c-513c5e2584b9">
+<img align="left"  height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/64a2a85f-7d8e-466e-a8fb-f35696b2ff87">
 
 <img align="left"  height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/d82c0b64-a40b-4d1f-ba5f-85d67137429a">
 
@@ -62,7 +62,7 @@
 
 <img align="left"  height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/beb0347f-6f6d-4f86-8fa3-03dd6d022ccc">
 
-<img align="left"  height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/e644b279-8487-45a1-9050-e6900c5d78e6">
+<img align="left"  height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/56b7afe9-0b10-48da-ad63-faf1b450b87b">
 
 </div>
 
