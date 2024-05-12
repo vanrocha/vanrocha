@@ -44,7 +44,7 @@
 
 ### Main skills:
 <div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
+<img align="left" height="84" width="84" src="https://github.com/vanrocha/vanrocha/assets/86091793/16f1ddd1-8d2d-43c0-9092-3bda5a3037c2">
 
 <img align="left" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
 
