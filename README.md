@@ -16,7 +16,7 @@
 
 <div align="center"> 
 <a href="https://www.instagram.com/r.rochhax/" target="_blank">
-<img align="center" height="84" width="84" src="https://github.com/vanrocha/vanrocha/assets/86091793/8e3126a7-d003-4fbc-979f-4a2708f8b82a">
+<img align="center" height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/8e3126a7-d003-4fbc-979f-4a2708f8b82a">
 </a>
 
 <a href="https://www.youtube.com/channel/UCAvfg7HE0wEjFNejFpjaZVw" target="_blank">
@@ -44,7 +44,7 @@
 
 ### Main skills:
 <div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/vanrocha/vanrocha/assets/86091793/49372f0d-6543-4dae-b4c2-25fc19b5fed6">
+<img align="left" height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/49372f0d-6543-4dae-b4c2-25fc19b5fed6">
 
 <img align="left" height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/7b57f313-6320-4983-81cb-003f24d6946a">
 
