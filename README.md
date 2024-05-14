@@ -71,6 +71,14 @@
 <br>
 
 <div align="center"> 
+ <a  href="https://www.linkedin.com/in/rafaelprochabr/" target=_blank>
+<img align="center"  height="75" width="75" src="https://github.com/vanrocha/vanrocha/assets/86091793/d4d5db8e-db4e-4788-9e0e-a3d92f4f7880">
+</a>
+
+<a href="rafaelrochajw@gmail.com">
+<img align="center"  height="85" width="85" src="https://github.com/vanrocha/vanrocha/assets/86091793/2933a258-0dc6-476b-b8b9-8da3c07a2bf7">
+</a>
+
 <a href="https://www.instagram.com/r.rochhax/" target="_blank">
 <img align="center" height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/100d1508-2be9-40d9-b054-559bc6087fff">
 </a>
@@ -80,14 +88,6 @@
 </a>
 
 
-<a href="rafaelrochajw@gmail.com">
-<img align="center"  height="85" width="85" src="https://github.com/vanrocha/vanrocha/assets/86091793/2933a258-0dc6-476b-b8b9-8da3c07a2bf7">
-</a>
-
-
-<a  href="https://www.linkedin.com/in/rafaelprochabr/" target=_blank>
-<img align="center"  height="75" width="75" src="https://github.com/vanrocha/vanrocha/assets/86091793/d4d5db8e-db4e-4788-9e0e-a3d92f4f7880">
-</a>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&fontAlignY=58&fontAlign=32&animation=blinking&fontColor=#05410DFF&fontSize=2"/>
