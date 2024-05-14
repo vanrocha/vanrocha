@@ -1,10 +1,14 @@
 <img width=100% bottom=50px src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&fontAlignY=58&fontAlign=32&animation=blink&fontColor=#05410DFF&fontSize=2"/>
 <br>
 <br> 
+<br> 
+<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=50&duration=6000&pause=1500&color=096C17E9&center=true&vCenter=true&random=false&width=1000&lines=Hello+my+name+is+Rafael+Rocha;I'm+35+years+old;I'm+a+Back-end+Java;I'm+from+Brazil;Welcome!)](https://git.io/typing-svg)
 
 <br>
+<br>
+<br> 
 <br>
 
 <div align="center">
@@ -13,33 +17,44 @@
 
 </div>
 
+</div>
 
-### Main skills:
+<br>
+<br> 
+<br>
 
+
+<h1>
+                                                      <span> Main skills: </span>
+</h1>
 
 <div align="center"> 
+  
 <img align="left" height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/49372f0d-6543-4dae-b4c2-25fc19b5fed6">
 
 <img align="left" height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/7b57f313-6320-4983-81cb-003f24d6946a">
 
-<img align="left"  height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/6b7be547-c438-4783-abae-d78ef5487afc">
+<img align="left" height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/6b7be547-c438-4783-abae-d78ef5487afc">
 
-<img align="left"  height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/3b1a561c-3802-441e-9a39-23f48de0b383">
+<img align="left" height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/3b1a561c-3802-441e-9a39-23f48de0b383">
 
-<img align="left"  height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/40f8f5ed-fa32-404b-bf41-c8401c4641e3">
+<img align="left" height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/40f8f5ed-fa32-404b-bf41-c8401c4641e3">
 
-<img align="left"  height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/64a2a85f-7d8e-466e-a8fb-f35696b2ff87">
+<img align="left" height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/64a2a85f-7d8e-466e-a8fb-f35696b2ff87">
 
-<img align="left"  height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/d82c0b64-a40b-4d1f-ba5f-85d67137429a">
+<img align="left" height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/d82c0b64-a40b-4d1f-ba5f-85d67137429a">
 
-<img align="left"  height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/17ba8a6f-c8a7-47a9-bc78-08ee87c19457">
+<img align="left" height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/17ba8a6f-c8a7-47a9-bc78-08ee87c19457">
 
-<img align="left"  height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/beb0347f-6f6d-4f86-8fa3-03dd6d022ccc">
+<img align="left" height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/beb0347f-6f6d-4f86-8fa3-03dd6d022ccc">
 
-<img align="left"  height="70" width="70" src="https://github.com/vanrocha/vanrocha/assets/86091793/1e1ee0b7-6163-48b5-9d7d-d27039efd4ad">
+<img align="left" height="70" width="70" src="https://github.com/vanrocha/vanrocha/assets/86091793/1e1ee0b7-6163-48b5-9d7d-d27039efd4ad">
 
 </div>
-
+<br> 
+<br>
+<br> 
+<br>
 
 
 <div align="center" >
@@ -50,6 +65,10 @@
 
 
 
+<br> 
+<br>
+<br> 
+<br>
 
 <div align="center"> 
 <a href="https://www.instagram.com/r.rochhax/" target="_blank">
@@ -69,17 +88,6 @@
 <a  href="https://www.linkedin.com/in/rafaelprochabr/" target=_blank>
 <img align="center"  height="75" width="75" src="https://github.com/vanrocha/vanrocha/assets/86091793/d4d5db8e-db4e-4788-9e0e-a3d92f4f7880">
 </a>
-
-
-
-</div>
-
-<br>
-<br> 
-<br>
-<br>
-<br>
-<br> 
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&fontAlignY=58&fontAlign=32&animation=blinking&fontColor=#05410DFF&fontSize=2"/>
