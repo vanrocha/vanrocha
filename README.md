@@ -14,35 +14,9 @@
 </div>
 
 
-<div align="center"> 
-<a href="https://www.instagram.com/r.rochhax/" target="_blank">
-<img align="center" height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/100d1508-2be9-40d9-b054-559bc6087fff">
-</a>
-
-<a href="https://www.youtube.com/channel/UCAvfg7HE0wEjFNejFpjaZVw" target="_blank">
-<img align="center" height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/58e24a1c-dfa3-4d6a-a5f0-6f649ec5c9e6">
-</a>
-
-
-<a href="rafaelrochajw@gmail.com">
-<img align="center"  height="85" width="85" src="https://github.com/vanrocha/vanrocha/assets/86091793/2933a258-0dc6-476b-b8b9-8da3c07a2bf7">
-</a>
-
-
-<a  href="https://www.linkedin.com/in/rafaelprochabr/" target=_blank>
-<img align="center"  height="75" width="75" src="https://github.com/vanrocha/vanrocha/assets/86091793/d4d5db8e-db4e-4788-9e0e-a3d92f4f7880">
-</a>
-
-
-</div>
-
-<div align="center" >
-   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/vanrocha?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=dark_green)
-
-</div>
-
 ### Main skills:
+
+
 <div align="center"> 
 <img align="left" height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/49372f0d-6543-4dae-b4c2-25fc19b5fed6">
 
@@ -63,6 +37,40 @@
 <img align="left"  height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/beb0347f-6f6d-4f86-8fa3-03dd6d022ccc">
 
 <img align="left"  height="70" width="70" src="https://github.com/vanrocha/vanrocha/assets/86091793/1e1ee0b7-6163-48b5-9d7d-d27039efd4ad">
+
+</div>
+
+
+
+<div align="center" >
+   
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/vanrocha?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=dark_green)
+
+</div>
+
+
+
+
+<div align="center"> 
+<a href="https://www.instagram.com/r.rochhax/" target="_blank">
+<img align="center" height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/100d1508-2be9-40d9-b054-559bc6087fff">
+</a>
+
+<a href="https://www.youtube.com/channel/UCAvfg7HE0wEjFNejFpjaZVw" target="_blank">
+<img align="center" height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/58e24a1c-dfa3-4d6a-a5f0-6f649ec5c9e6">
+</a>
+
+
+<a href="rafaelrochajw@gmail.com">
+<img align="center"  height="85" width="85" src="https://github.com/vanrocha/vanrocha/assets/86091793/2933a258-0dc6-476b-b8b9-8da3c07a2bf7">
+</a>
+
+
+<a  href="https://www.linkedin.com/in/rafaelprochabr/" target=_blank>
+<img align="center"  height="75" width="75" src="https://github.com/vanrocha/vanrocha/assets/86091793/d4d5db8e-db4e-4788-9e0e-a3d92f4f7880">
+</a>
+
+
 
 </div>
 
