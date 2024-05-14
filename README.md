@@ -1,8 +1,7 @@
 <img width=100% bottom=50px src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&section=header&fontAlignY=58&fontAlign=32&animation=blink&fontColor=#05410DFF&fontSize=2"/>
 <br>
 <br> 
-<br> 
-<br>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=50&duration=6000&pause=1500&color=096C17E9&center=true&vCenter=true&random=false&width=1000&lines=Hello!+My+name+is+Rafael+Rocha;I'm+35+years+old;I'm+a+Back-end+Java;I'm+from+Brazil;Welcome!)](https://git.io/typing-svg)
 
