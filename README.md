@@ -37,8 +37,6 @@
 
 <img align="left" height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/3b1a561c-3802-441e-9a39-23f48de0b383">
 
-<img align="left" height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/40f8f5ed-fa32-404b-bf41-c8401c4641e3">
-
 <img align="left" height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/64a2a85f-7d8e-466e-a8fb-f35696b2ff87">
 
 <img align="left" height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/d82c0b64-a40b-4d1f-ba5f-85d67137429a">
