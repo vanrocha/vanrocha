@@ -11,8 +11,8 @@
 <br>
 
 <div align="center">
-  
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vanrocha&theme=dark" alt="GitHub Streak" /></a>
+
+  [![GitHub Streak](https://streak-stats.demolab.com/vanrocha=DenverCoder1)](https://git.io/streak-stats)
 
 </div>
 
