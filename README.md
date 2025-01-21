@@ -12,7 +12,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=vanrocha&theme=github-dark&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vanrocha&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
