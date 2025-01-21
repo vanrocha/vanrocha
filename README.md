@@ -30,21 +30,21 @@
 <div align="center"> 
 
   
-<img align="left" height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/49372f0d-6543-4dae-b4c2-25fc19b5fed6">
+<img height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/49372f0d-6543-4dae-b4c2-25fc19b5fed6">
 
-<img align="left" height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/7b57f313-6320-4983-81cb-003f24d6946a">
+<img height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/7b57f313-6320-4983-81cb-003f24d6946a">
 
-<img align="left" height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/6b7be547-c438-4783-abae-d78ef5487afc">
+<img height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/6b7be547-c438-4783-abae-d78ef5487afc">
 
-<img align="left" height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/3b1a561c-3802-441e-9a39-23f48de0b383">
+<img height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/3b1a561c-3802-441e-9a39-23f48de0b383">
 
-<img align="left" height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/64a2a85f-7d8e-466e-a8fb-f35696b2ff87">
+<img height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/64a2a85f-7d8e-466e-a8fb-f35696b2ff87">
 
-<img align="left" height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/17ba8a6f-c8a7-47a9-bc78-08ee87c19457">
+<img height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/17ba8a6f-c8a7-47a9-bc78-08ee87c19457">
 
-<img align="left" height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/beb0347f-6f6d-4f86-8fa3-03dd6d022ccc">
+<img height="60" width="60" src="https://github.com/vanrocha/vanrocha/assets/86091793/beb0347f-6f6d-4f86-8fa3-03dd6d022ccc">
 
-<img align="left" height="70" width="70" src="https://github.com/vanrocha/vanrocha/assets/86091793/1e1ee0b7-6163-48b5-9d7d-d27039efd4ad">
+<img height="70" width="70" src="https://github.com/vanrocha/vanrocha/assets/86091793/1e1ee0b7-6163-48b5-9d7d-d27039efd4ad">
 
 
 </div>
