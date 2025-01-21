@@ -78,7 +78,7 @@
 <img align="center"  height="85" width="85" src="https://github.com/vanrocha/vanrocha/assets/86091793/2933a258-0dc6-476b-b8b9-8da3c07a2bf7">
 </a>
 
-<a href="https://www.instagram.com/r.rochhax/" target="_blank">
+<a href="https://www.instagram.com/rafa3l.rocha/" target="_blank">
 <img align="center" height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/100d1508-2be9-40d9-b054-559bc6087fff">
 </a>
 
