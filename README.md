@@ -46,6 +46,7 @@
 
 <img align="left" height="70" width="70" src="https://github.com/vanrocha/vanrocha/assets/86091793/1e1ee0b7-6163-48b5-9d7d-d27039efd4ad">
 
+
 </div>
 <br> 
 <br>
@@ -75,9 +76,7 @@
 <img align="center" height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/100d1508-2be9-40d9-b054-559bc6087fff">
 </a>
 
-<a href="https://www.youtube.com/channel/UCAvfg7HE0wEjFNejFpjaZVw" target="_blank">
-<img align="center" height="80" width="80" src="https://github.com/vanrocha/vanrocha/assets/86091793/58e24a1c-dfa3-4d6a-a5f0-6f649ec5c9e6">
-</a>
+
 
 
 
